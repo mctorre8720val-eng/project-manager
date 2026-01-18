@@ -20,3 +20,7 @@ function testRoute() {
 function testRoute() {
   console.log("new logic for new developers");
 }
+
+function testRoute() {
+  console.log("IT CAPSTONE PROJECT");
+}
