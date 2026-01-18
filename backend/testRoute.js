@@ -14,7 +14,7 @@ function testRoute() {
 }
 
 function testRoute() {
-  console.log("new logic for new fe");
+  console.log("new logic for new features");
 }
 
 function testRoute() {
