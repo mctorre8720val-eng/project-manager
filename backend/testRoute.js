@@ -8,3 +8,15 @@ function testRoute() {
 function testRoute() {
   console.log("new logic");
 }
+
+function testRoute() {
+  console.log("new logic for testRoute");
+}
+
+function testRoute() {
+  console.log("new logic for new features");
+}
+
+function testRoute() {
+  console.log("new logic for new developers");
+}
