@@ -1,5 +1,5 @@
-// backend/testRoute.js
-// Owned by frontend team
+// owned by backend team
+// assigned by project manager
 
 function testRoute() {
   console.log("Backend logic implemenented here.");
