@@ -1,5 +1,4 @@
-// backend/testRoute.js
-// Owned by backend team
+// IT PROJECT MANAGER
 
 function testRoute() {
   console.log("Initial backend stub");
