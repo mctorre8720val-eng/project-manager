@@ -2,5 +2,9 @@
 // Owned by frontend team
 
 function testRoute() {
-  console.log("Initial backend stub");
+  console.log("Backend logic implemenented here.");
+}
+
+function testRoute() {
+  console.log("new logic");
 }
